@@ -1,0 +1,11 @@
+# Site settings
+title: Yana Agun Siswanto (bekicot)
+email: yana.developer@gmail.com 
+description: > # this means to ignore newlines until "baseurl:"
+  Documenting experience. A blog about Ruby On Rails, Coffeescript, And Javascript Tips. Love Startups and Web Technologies.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "bekicot.github.com" # the base hostname & protocol for your site
+twitter_username: yana_agun
+github_username: bekicot
+# Build settings
+markdown: kramdown
