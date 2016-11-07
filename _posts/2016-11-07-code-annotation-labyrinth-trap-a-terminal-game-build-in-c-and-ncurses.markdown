@@ -5,7 +5,7 @@ date: 2016-11-07T05:00:32+07:00
 ---
 In the last post i create an introduction to NCurses. However, i must to admit, my knowledge in ncurses was limited back then. But hopefully, help people who want to get started using NCurses. I created the blogpost in a rush because of a Besut Code Mini Task Activity. For those who doesn't know Besut Code, it is a competition where the participant is required to do sequence of tasks related to Open Source Software. It is fun :).
 
-Alright, in this blogpost, i want to document another experience in the past 14 hours of my work. I created an incomplete terminal game, i named it labyrinth trap. It is a simple game, where the user must find a path to exit, without getting caught by the guards. Before begin, i recomend you to clone [Labyrinth Trap Repository](git@github.com:bekicot/labyrinth_trap.git)
+Alright, in this blogpost, i want to document another experience in the past 14 hours of my work. I created an incomplete terminal game, i named it labyrinth trap. It is a simple game, where the user must find a path to exit, without getting caught by the guards. Before begin, i recomend you to clone [Labyrinth Trap Repository](https://github.com/bekicot/labyrinth_trap)
 
 > This is one of my early project in C. Built as part of Data Structure Project. Suggestion and Help are welcome.
 
