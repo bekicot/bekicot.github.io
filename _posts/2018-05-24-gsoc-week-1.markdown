@@ -2,6 +2,7 @@
 layout: post
 title: "GSoC 2018 Week 1 With Coala"
 date: 2018-05-24T08:38:00+07:00
+category: GSoC-2018
 ---
 
 ### The Code
