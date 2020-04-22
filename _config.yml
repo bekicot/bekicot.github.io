@@ -10,6 +10,12 @@ github_username: bekicot
 # Build settings
 markdown: kramdown
 
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+
+
 exclude:
   - tmp
   - tags
