@@ -1,22 +1,19 @@
-# Site settings
-title: Yana Agun Siswanto (bekicot)
+title: Yana Agun Siswanto's blog
 email: yana.developer@gmail.com 
-description: > # this means to ignore newlines until "baseurl:"
-  Documenting experience. A blog about Ruby On Rails, Coffeescript, And Javascript Tips. Love Startups and Web Technologies.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "bekicot.github.com" # the base hostname & protocol for your site
+description: > 
+  Documenting experience. My experience.
+baseurl: ""
+url: "bekicot.github.com"
 twitter_username: yana_agun
 github_username: bekicot
-# Build settings
 markdown: kramdown
-
 collections:
   posts:
     output: true
     permalink: /blog/:title
-
-
 exclude:
   - tmp
   - tags
   - tags.lock
+plugins:
+  - jekyll-sitemap
