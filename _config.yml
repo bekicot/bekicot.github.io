@@ -3,7 +3,7 @@ email: yana.developer@gmail.com
 description: > 
   Documenting experience. My experience.
 baseurl: ""
-url: "bekicot.github.com"
+url: "https://bekicot.github.com"
 twitter_username: yana_agun
 github_username: bekicot
 markdown: kramdown
