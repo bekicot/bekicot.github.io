@@ -9,3 +9,8 @@ twitter_username: yana_agun
 github_username: bekicot
 # Build settings
 markdown: kramdown
+
+exclude:
+  - tmp
+  - tags
+  - tags.lock
